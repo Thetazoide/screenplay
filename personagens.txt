@@ -1,14 +1,15 @@
 Guião comunitáio
 
-personagens:
+personagens/escritores:
 
-cão
-lobo
-gato
-bebado
-coelho
-tartaruga
-a vidente
-o rei
-a gorda princesa
-princepe choninhas
+cão/bom
+lobo/mau
+gato/que é gato
+bebado/caos
+coelho/velocidade
+tartaruga/lentidão
+a vidente/destino
+o rei/manda
+a gorda princesa/come
+princepe choninhas/romeu sem julieta
+
